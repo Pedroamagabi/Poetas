@@ -406,3 +406,7 @@ opacity: 0.4;
       display: flex;
       justify-content: center;
     }
+
+    #textofinal{
+      font-size: 1vw
+    }
