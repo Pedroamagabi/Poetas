@@ -408,8 +408,8 @@ opacity: 0.4;
     }
 
     #textofinal{
-         font-size: 2vw;
-      word-wrap: break-word;
-      height: 80%;
-      width: 80%;
+        word-wrap: break-word;
+      height: 70%;
+      width: 95%;
+      justify-content: center;
     }
