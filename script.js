@@ -2613,6 +2613,8 @@ var objectButton=document.querySelector("#botao")
 
 function botao(){
     modal.classList.add("appear")
+     nome.innerHTML="Gabi Opuchkevich"
+    title.innerHTML= "Se voce vier, eu serei!"
     poetry.innerHTML=`<img  src="images/poesia.jpeg" alt="" >`
 }
 
